@@ -5,4 +5,5 @@ Kurikulum **Front-End Web Developer** di **Dicoding** telah dikembangkan dengan 
 Kesempatan belajar pada _Learning Path_ ini di peroleh dari program **Merdeka Belajar Kampus Merdeka (MBKM)** **Studi Independen** angkatan pertama, studi independen yakni pembelajaran di dalam kelas yang telah dirancang agar mahasiswa dapat memecahkan tantangan nyata yang dihadapi industri saat ini dalam bentuk pemberian kursus, _bootcamp_, atau _Massive Open Online Courses_ (MOOC)
 
 ## Submission
-- [Belajar Dasar Pemrograman Web →]
+- [Belajar Dasar Pemrograman Web →](https://github.com/slm17/mbkm-dicoding-front-end-web-developer/tree/main/Belajar%20Dasar%20Pemrograman%20Web%20Belajar%20Dasar%20Pemrograman%20Web)
+- [Belajar Membuat Front-End Web untuk Pemula →](https://github.com/slm17/mbkm-dicoding-front-end-web-developer/tree/main/Belajar%20Membuat%20Front-End%20Web%20untuk%20Pemula)
