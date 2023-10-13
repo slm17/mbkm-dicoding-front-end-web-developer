@@ -7,4 +7,4 @@ Kesempatan belajar pada _Learning Path_ ini di peroleh dari program **Merdeka Be
 ## Submission
 - [Belajar Dasar Pemrograman Web →](https://github.com/slm17/mbkm-dicoding-front-end-web-developer/tree/main/Belajar%20Dasar%20Pemrograman%20Web%20Belajar%20Dasar%20Pemrograman%20Web)
 - [Belajar Membuat Front-End Web untuk Pemula →](https://github.com/slm17/mbkm-dicoding-front-end-web-developer/tree/main/Belajar%20Membuat%20Front-End%20Web%20untuk%20Pemula)
-- [Belajar Fundamental Front-End Web Development →](https://github.com/slm17/mbkm-dicoding-front-end-web-developer/tree/main/Belajar%20Fundamental%20Front-End%20Web%20Development/Coronavirus-Live-Report)
+- [Belajar Fundamental Front-End Web Development →](https://github.com/slm17/mbkm-dicoding-front-end-web-developer/tree/master)
